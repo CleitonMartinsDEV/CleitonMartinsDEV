@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  Hello World 👋
+</h1>
 
-<!--
-**CleitonMartinsDEV/CleitonMartinsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+
+
+
+
+***
+
+
 
 Here are some ideas to get you started:
 
